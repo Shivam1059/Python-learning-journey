@@ -1,0 +1,8 @@
+print("Hello world")
+print(5)
+print(9*8)
+print(7+6)
+print(7-6)
+print(7/3)
+print(7%2)
+print("good moring\n","my every morning is very good")
